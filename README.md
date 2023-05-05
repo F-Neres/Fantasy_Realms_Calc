@@ -9,5 +9,3 @@
    Todo o código do projeto encontra no arquivo [`Comb.ipynb`](Comb.ipynb "Jupyter Notebook"){:target="_blank"}. Em algumas célular iniciais há comentário pertinentes sobre as decisões de lógica.
 
  Por enquanto, o projeto está em fase de desenvolvimento. Se puderes enviar-me uma avaliação, sugestão ou comentário, será muitíssimo engrandecedor.
- 
- https://ludopedia.com.br/jogo/fantasy-realms#:~:text=combos%20de%20cartas.-,Fantasy%20Realms%20leva%20segundos%20para%20aprender%3A%20compre%20uma%20carta%2C%20descarte,a%20maior%20pontua%C3%A7%C3%A3o%20para%20ganhar!
