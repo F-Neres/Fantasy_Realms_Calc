@@ -6,6 +6,6 @@
  
  Nota-se que há diferenças de pontos em potencial enormes de carta para carta; entretanto, cartas que fornecem maiores pontuações apenas o fazem em ocasiões mais raras. Para um aprimoramento futuro, será acrescentada a geração de uma relação de cartas ordenada pela esperança de pontuação para mãos compostas por cada uma delas.
  
-   Todo o código do projeto encontra no arquivo ``Comb.ipynb``. Em algumas célular iniciais há comentário pertinentes sobre as decisões de lógica.
+   Todo o código do projeto encontra no arquivo [`Comb.ipynb`](Comb.ipynb "Clique aqui para abrir o arquivo"). Em algumas célular iniciais há comentário pertinentes sobre as decisões de lógica.
 
  Por enquanto, o projeto está em fase de desenvolvimento. Se puderes enviar-me uma avaliação, sugestão ou comentário, será muitíssimo engrandecedor.
